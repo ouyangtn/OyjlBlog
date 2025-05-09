@@ -19,7 +19,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         title: "主标题",
         description: "网站描述",
         url: "http://www.your-web-page.com/",
-        icon: "",
+        icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
       },
     ],
   },
