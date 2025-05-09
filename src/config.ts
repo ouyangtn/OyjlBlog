@@ -1,7 +1,7 @@
 /** Website 分类配置 */
 const WEBSITE_SORTS: WebsiteSort[] = [
   {
-    title: "示例分类1",
+    title: "自我介绍",
     sites: [
       {
         title: "主标题",
@@ -25,24 +25,164 @@ const WEBSITE_SORTS: WebsiteSort[] = [
   },
   {
     title: "简历",
+        sites: [
+      {
+        title: "主标题",
+        url: "http://www.your-web-page.com/",
+        icon: "",
+        color: "#0171CD",
+      },
+      {
+        title: "主标题",
+        description: "网站描述",
+        url: "http://www.your-web-page.com/",
+        icon: "",
+      },
+      {
+        title: "主标题",
+        description: "网站描述",
+        url: "http://www.your-web-page.com/",
+        icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
+      },
+    ],
   },
   {
     title: "博客",
+        sites: [
+      {
+        title: "主标题",
+        url: "http://www.your-web-page.com/",
+        icon: "",
+        color: "#0171CD",
+      },
+      {
+        title: "主标题",
+        description: "网站描述",
+        url: "http://www.your-web-page.com/",
+        icon: "",
+      },
+      {
+        title: "主标题",
+        description: "网站描述",
+        url: "http://www.your-web-page.com/",
+        icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
+      },
+    ],
   },
   {
     title: "QQ",
+        sites: [
+      {
+        title: "主标题",
+        url: "http://www.your-web-page.com/",
+        icon: "",
+        color: "#0171CD",
+      },
+      {
+        title: "主标题",
+        description: "网站描述",
+        url: "http://www.your-web-page.com/",
+        icon: "",
+      },
+      {
+        title: "主标题",
+        description: "网站描述",
+        url: "http://www.your-web-page.com/",
+        icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
+      },
+    ],
   },
   {
     title: "电子邮件",
+        sites: [
+      {
+        title: "主标题",
+        url: "http://www.your-web-page.com/",
+        icon: "",
+        color: "#0171CD",
+      },
+      {
+        title: "主标题",
+        description: "网站描述",
+        url: "http://www.your-web-page.com/",
+        icon: "",
+      },
+      {
+        title: "主标题",
+        description: "网站描述",
+        url: "http://www.your-web-page.com/",
+        icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
+      },
+    ],
   },
     {
     title: "CSDN",
+        sites: [
+      {
+        title: "主标题",
+        url: "http://www.your-web-page.com/",
+        icon: "",
+        color: "#0171CD",
+      },
+      {
+        title: "主标题",
+        description: "网站描述",
+        url: "http://www.your-web-page.com/",
+        icon: "",
+      },
+      {
+        title: "主标题",
+        description: "网站描述",
+        url: "http://www.your-web-page.com/",
+        icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
+      },
+    ],
   },
   {
     title: "语雀",
+        sites: [
+      {
+        title: "主标题",
+        url: "http://www.your-web-page.com/",
+        icon: "",
+        color: "#0171CD",
+      },
+      {
+        title: "主标题",
+        description: "网站描述",
+        url: "http://www.your-web-page.com/",
+        icon: "",
+      },
+      {
+        title: "主标题",
+        description: "网站描述",
+        url: "http://www.your-web-page.com/",
+        icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
+      },
+    ],
   },
   {
     title: "牛客",
+        sites: [
+      {
+        title: "主标题",
+        url: "http://www.your-web-page.com/",
+        icon: "",
+        color: "#0171CD",
+      },
+      {
+        title: "主标题",
+        description: "网站描述",
+        url: "http://www.your-web-page.com/",
+        icon: "",
+      },
+      {
+        title: "主标题",
+        description: "网站描述",
+        url: "http://www.your-web-page.com/",
+        icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
+      },
+    ],
   },
   {
     title: "友情链接",
