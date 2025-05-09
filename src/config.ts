@@ -24,16 +24,25 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     ],
   },
   {
-    title: "示例分类2",
+    title: "简历",
   },
   {
-    title: "示例分类3",
+    title: "博客",
   },
   {
-    title: "示例分类4",
+    title: "QQ",
   },
   {
-    title: "示例分类5",
+    title: "电子邮件",
+  },
+    {
+    title: "CSDN",
+  },
+  {
+    title: "语雀",
+  },
+  {
+    title: "牛客",
   },
   {
     title: "友情链接",
@@ -42,7 +51,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         title: "EsunR Blog",
         description: "EsunR 的博客",
         url: "https://blog.csdn.net/oyjl__",
-        icon: "https://esunr-image-bed.oss-cn-beijing.aliyuncs.com/logo.jpg",
+        icon: "https://i0.hdslb.com/bfs/article/61dc74e1e3ebafcce8054028e95474fd731e95a6.jpg",
       },
     ],
   },
