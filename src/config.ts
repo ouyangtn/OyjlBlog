@@ -29,7 +29,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       {
         title: "我的博客",
         description: "开发中~~",
-        url: "https://main-oyjl-blog.vercel.app/",
+        url: "http://www.your-web-page.com/",
         icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
       },
     ],
@@ -51,7 +51,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       {
         title: "电子邮件",
         description: "与QQ同号~~",
-        url: "hhttps://qm.qq.com/q/NH9rgYruQa",
+        url: "https://qm.qq.com/q/NH9rgYruQa",
         icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
       },
     ],
@@ -102,7 +102,7 @@ const GLOBAL_CONFIG = {
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://blog.csdn.net/oyjl__",
+  BLOG_URL: "https://main-oyjl-blog.vercel.app/",
   /**
    * 指定中心 LOGO 图片地址
    */
