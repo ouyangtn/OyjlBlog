@@ -29,7 +29,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       {
         title: "我的博客",
         description: "开发中~~",
-        url: "http://www.your-web-page.com/",
+        url: "https://main-oyjl-blog.vercel.app/",
         icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
       },
     ],
