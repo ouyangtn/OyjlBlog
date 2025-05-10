@@ -98,7 +98,7 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "OYJL-Blog",
+  BLOG_NAME: "OYJL-Blog 开发中~~",
   /**
    * 个人博客链接
    */
