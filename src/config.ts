@@ -5,7 +5,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     sites: [
       {
         title: "OUYANG~",
-        description: "<p>我是欧阳，90后互联网从业者，专注于前端开发。喜欢用代码创造美好的用户体验，也热爱旅行和摄影。这个空间记录我的学习和工作心得，欢迎志同道合的朋友一起交流！</p>",
+        description: "我是欧阳，90后互联网从业者，专注于前端开发。喜欢用代码创造美好的用户体验，也热爱旅行和摄影。这个空间记录我的学习和工作心得，欢迎志同道合的朋友一起交流！",
         url: "",
         icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
       },
@@ -60,8 +60,8 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     title: "CSDN",
         sites: [
       {
-        title: "主标题",
-        description: "网站描述",
+        title: "技术博客~",
+        description: "不断更新中~ 分享前后端开发、编程技巧与学习心得，记录成长历程。",
         url: "https://blog.csdn.net/oyjl__",
         icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/4.png",
       },
@@ -71,8 +71,8 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     title: "语雀",
         sites: [
       {
-        title: "主标题",
-        description: "网站描述",
+        title: "我的学习笔记啦啦啦~",
+        description: "记录语雀相关的技术文章与实践经验",
         url: "https://www.yuque.com/u43023053",
         icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/5.png",
       },
@@ -82,8 +82,8 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     title: "牛客",
         sites: [
       {
-        title: "我的主页",
-        description: "找实习ing，冲冲冲~",
+        title: "牛客主页",
+        description: "找实习ing，冲冲冲~   分享算法、刷题经验与技术、找工作的心得，记录成长历程",
         url: "https://www.nowcoder.com/users/585047695",
         icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/6.png",
       },
