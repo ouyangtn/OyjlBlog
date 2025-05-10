@@ -115,7 +115,7 @@ const GLOBAL_CONFIG = {
    * 背景图片地址
    */
   BACKGROUND_IMG_URL:
-    "https://i0.hdslb.com/bfs/article/61dc74e1e3ebafcce8054028e95474fd731e95a6.jpg",
+    "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/7.jpg",
   /**
    * ICP 备案号，留空不显示
    */
