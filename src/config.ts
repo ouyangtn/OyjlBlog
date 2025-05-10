@@ -4,44 +4,21 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     title: "自我介绍",
     sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-        color: "#0171CD",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
+        title: "OUYANG~",
+        description: "<p>我是欧阳，90后互联网从业者，专注于前端开发。喜欢用代码创造美好的用户体验，也热爱旅行和摄影。这个空间记录我的学习和工作心得，欢迎志同道合的朋友一起交流！</p>",
+        url: "",
         icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
       },
     ],
+    
   },
   {
     title: "简历",
         sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-        color: "#0171CD",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
+        title: "我的简历",
+        description: "持续更新中~",
+        url: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/2.jpg",
         icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
       },
     ],
@@ -50,20 +27,8 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     title: "博客",
         sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-        color: "#0171CD",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
+        title: "我的博客",
+        description: "开发中~~",
         url: "http://www.your-web-page.com/",
         icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
       },
@@ -73,22 +38,10 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     title: "QQ",
         sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-        color: "#0171CD",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
+        title: "球球QQ",
+        description: "点击链接添加我~欢迎交流呀",
+        url: "https://qm.qq.com/q/NH9rgYruQa",
+        icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/3.jpg",
       },
     ],
   },
@@ -96,21 +49,9 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     title: "电子邮件",
         sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-        color: "#0171CD",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
+        title: "电子邮件",
+        description: "与QQ同号~~",
+        url: "hhttps://qm.qq.com/q/NH9rgYruQa",
         icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
       },
     ],
@@ -120,21 +61,9 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         sites: [
       {
         title: "主标题",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-        color: "#0171CD",
-      },
-      {
-        title: "主标题",
         description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
+        url: "https://blog.csdn.net/oyjl__",
+        icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/4.png",
       },
     ],
   },
@@ -143,21 +72,9 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         sites: [
       {
         title: "主标题",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-        color: "#0171CD",
-      },
-      {
-        title: "主标题",
         description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
+        url: "https://www.yuque.com/u43023053",
+        icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/5.png",
       },
     ],
   },
@@ -165,33 +82,10 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     title: "牛客",
         sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-        color: "#0171CD",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
-      },
-    ],
-  },
-  {
-    title: "友情链接",
-    sites: [
-      {
-        title: "EsunR Blog",
-        description: "EsunR 的博客",
-        url: "https://blog.csdn.net/oyjl__",
-        icon: "https://i0.hdslb.com/bfs/article/61dc74e1e3ebafcce8054028e95474fd731e95a6.jpg",
+        title: "我的主页",
+        description: "找实习ing，冲冲冲~",
+        url: "https://www.nowcoder.com/users/585047695",
+        icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/6.png",
       },
     ],
   },
