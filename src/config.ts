@@ -5,7 +5,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     sites: [
       {
         title: "OUYANG~",
-        description: "我是欧阳，90后互联网从业者，专注于前端开发。喜欢用代码创造美好的用户体验，也热爱旅行和摄影。这个空间记录我的学习和工作心得，欢迎志同道合的朋友一起交流！",
+        description: "我是欧阳，00后全栈开发，专注于后端开发。喜欢用代码创造美好的用户体验，也热爱旅行和摄影。这个空间记录我的学习和工作心得，欢迎志同道合的朋友一起交流！",
         url: "",
         icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
       },
@@ -50,7 +50,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         sites: [
       {
         title: "电子邮件",
-        description: "与QQ同号~~",
+        description: "oyjianli@qq.com",
         url: "https://qm.qq.com/q/NH9rgYruQa",
         icon: "https://web-tlias-oyjl.oss-cn-beijing.aliyuncs.com/111.jpg",
       },
